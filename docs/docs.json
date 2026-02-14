@@ -1129,6 +1129,7 @@
         "group": "Reference & Templates",
         "pages": [
           "testing",
+          "reference/ci",
           "scripts",
           "reference/session-management-compaction",
           "reference/rpc",
